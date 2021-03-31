@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Deportiva</string>
+    <string name="capture_button">Boton para capturar video</string>
+    <string name="thumbnail_button">Importar datos capturados</string>
+</resources>

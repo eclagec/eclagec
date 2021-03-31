@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962965707354",
+    "project_id": "app-deportiva-ddff1",
+    "storage_bucket": "app-deportiva-ddff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962965707354:android:f87cd0edd30cd32fda5663",
+        "android_client_info": {
+          "package_name": "com.lage.appdeportiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962965707354-6um43lm0fs0qegne9vvrkn2e27vnspbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARb1EXqXGl71M5CeXtS7V4VMDa2lZgXHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962965707354-6um43lm0fs0qegne9vvrkn2e27vnspbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
